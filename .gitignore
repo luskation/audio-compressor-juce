@@ -1,0 +1,14 @@
+# JUCE / Visual Studio
+Builds/
+JuceLibraryCode/
+.vs/
+*.user
+*.VC.db
+*.opendb
+
+# binaries
+*.exe
+*.vst3
+*.dll
+*.obj
+*.pdb
